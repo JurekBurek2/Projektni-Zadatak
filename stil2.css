@@ -14,13 +14,13 @@ margin-top: -50px;
 }
 li {
   display: inline-block;
-  margin-right: 110px;
+  margin-right: 130px;
   font-family: 'NewYork';
   font-size: 50px;
   color: black;
   text-shadow: 3px 3px 3px #000, 3px 3px 3px #000, 3px 3px 3px #000;
   line-height: 50px;
-	text-indent: 90px;
+	text-indent: 70px;
 }
 h2 {
 	font-family: 'NewYork';
